@@ -1,6 +1,6 @@
 {
   "name": "new-relic-logs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Post logs to new relic ",
   "main": "src/index.js",
   "scripts": {
